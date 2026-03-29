@@ -34,6 +34,4 @@ The website features a homepage and five detailed recipe pages, focusing on clea
 - [x] Responsive Design (Mobile & Desktop)
 - [x] Deployment via GitHub Pages
 - [x] Proper use of Flexbox/Grid and Box Model
-
 ---
-*Created as part of the South Asian University Web Development Curriculum.*
