@@ -2,7 +2,7 @@
 
 **Name:** Aditya Kumar Yadav  
 **University:** South Asian University (SAU)  
-**GitHub Link:** https://github.com/Aditya12072006/recipe-website.git 
+**GitHub Link:** https://github.com/Aditya12072006/recipe-website.git
 **Live Demo Link:** https://aditya12072006.github.io/recipe-website/index.html
 
 ## Project Overview
