@@ -2,10 +2,8 @@
 
 **Name:** Aditya Kumar Yadav  
 **University:** South Asian University (SAU)  
-**GitHub Link:** https://aditya12072006.github.io/recipe-website/index.html  
-**Live Demo Link:** https://github.com/Aditya12072006/recipe-website.git 
-
----
+**GitHub Link:** https://github.com/Aditya12072006/recipe-website.git 
+**Live Demo Link:** https://aditya12072006.github.io/recipe-website/index.html
 
 ## Project Overview
 I built this multi-page "Delicious Recipes" website for my Web Development assignment. The goal was to create a functional, responsive, and visually clean site using only **HTML and CSS**. As per the assignment rules, no JavaScript was used for any part of the site.
