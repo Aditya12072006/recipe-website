@@ -2,8 +2,8 @@
 
 **Name:** Aditya Kumar Yadav  
 **University:** South Asian University (SAU)  
-**GitHub Link:** [Insert your GitHub repository link here]  
-**Live Demo Link:** [Insert your hosted GitHub Pages link here]  
+**GitHub Link:** https://aditya12072006.github.io/recipe-website/index.html  
+**Live Demo Link:** https://github.com/Aditya12072006/recipe-website.git 
 
 ---
 
@@ -36,4 +36,4 @@ The website features a homepage and five detailed recipe pages, focusing on clea
 - [x] Proper use of Flexbox/Grid and Box Model
 
 ---
-*Created as part of the South Asian University Web Development Curriculum.*
+
